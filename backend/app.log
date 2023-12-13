@@ -1,0 +1,7 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 127-098-216
+werkzeug - INFO - 127.0.0.1 - - [04/Nov/2023 16:55:04] "[31m[1mGET /genetic-algorithm HTTP/1.1[0m" 405 -
+werkzeug - INFO - 127.0.0.1 - - [04/Nov/2023 16:55:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127werkzeug - INFO -  * Restarting with stat
+ /genetic-algorithm HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/home/vtex/rist/Rits/backend/app.py', reloading
