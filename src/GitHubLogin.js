@@ -14,7 +14,7 @@ import {
 } from "./GitHubLoginStyles"; // Atualize o caminho do arquivo conforme necessário
 
 import { useNavigate } from "react-router-dom";
-const GITHUB_CLIENT_ID = "763ea15d20c5b67f73f8";
+const GITHUB_CLIENT_ID = GITHUB_CLIENT_ID;
 function GitHubLogin() {
   const navigate = useNavigate(); // Hook para navegar entre rotas
   const { userData, setUserData } = useContext(UserContext); // Usando o contexto para obter e modificar userData
